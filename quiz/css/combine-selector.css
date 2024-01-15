@@ -1,4 +1,4 @@
-body {
+  body {
     background-color: aliceblue;
   }
   
@@ -10,4 +10,13 @@ body {
   p {
     font-size: 3em;
     font-style: italic;
+  }
+
+  p.main {
+    color: red;
+
+  }
+
+  p.sub {
+    color: green;
   }
