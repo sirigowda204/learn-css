@@ -2,9 +2,12 @@
   background-color: rgba(173, 216, 230, 0.97);
   text-align: center;
   width: 100%;
+  align-items: center;
+  padding: 0.5em;
 }
 
 .nav li {
-  display: block;
-  font-size: 25px;
+  display: inline;
+  font-size: 15px;
+  margin: 3em;
 }
